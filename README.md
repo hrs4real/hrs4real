@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrs4real&show_icons=true&locale=en" alt="hrs4real" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrs4real&" alt="hrs4real" /></p>
+
+[![An image of @hrs4real's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hrs4real)](https://holopin.io/@hrs4real)
